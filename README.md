@@ -26,4 +26,5 @@
 
 C:\test1\
 C:\Arhivdata.zip
+
 *.txt
